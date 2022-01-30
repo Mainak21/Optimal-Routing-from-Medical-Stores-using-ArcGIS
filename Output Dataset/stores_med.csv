@@ -1,0 +1,6 @@
+Name,Latitude,Longitude,Metformin,SHAPE
+Sheth Medical & General Store,19.197777,72.845277,available,"{'spatialReference': {'wkid': 4326}, 'x': 72.845277, 'y': 19.197777}"
+Ashok Medical & General Store,19.029166,72.85194399999999,available,"{'spatialReference': {'wkid': 4326}, 'x': 72.85194399999999, 'y': 19.029166}"
+Jai Hind Medical Stores,19.100832999999998,72.909444,available,"{'spatialReference': {'wkid': 4326}, 'x': 72.909444, 'y': 19.100832999999998}"
+Ashapura Chemist,18.939722,72.826111,available,"{'spatialReference': {'wkid': 4326}, 'x': 72.826111, 'y': 18.939722}"
+Sai Medico,19.105832999999997,72.830277,available,"{'spatialReference': {'wkid': 4326}, 'x': 72.830277, 'y': 19.105832999999997}"

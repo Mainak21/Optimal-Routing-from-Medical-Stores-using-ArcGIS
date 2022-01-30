@@ -1,0 +1,8 @@
+ObjectID,Stores,Name,StartDepotName,EndDepotName,EarliestStartTime,LatestStartTime,Capacities,CostPerUnitTime,MaxOrderCount,MaxTotalTime,AssignmentRule
+1,Sheth Medical & General Store,Route1,Sheth Medical & General Store,Sheth Medical & General Store,11/24/2021 8:00,11/24/2021 10:00,10,20,10,180,1
+2,Ashok Medical & General Store,Route2,Ashok Medical & General Store,Ashok Medical & General Store,11/24/2021 8:00,11/24/2021 10:00,10,20,10,180,1
+3,Jai Hind Medical Stores,Route3,Jai Hind Medical Stores,Jai Hind Medical Stores,11/24/2021 8:00,11/24/2021 10:00,10,20,10,180,1
+4,Kalpana Medical & General Store,Route4,Kalpana Medical & General Store,Kalpana Medical & General Store,11/24/2021 8:00,11/24/2021 10:00,10,20,10,180,1
+5,Ashapura Chemist,Route5,Ashapura Chemist,Ashapura Chemist,11/24/2021 8:00,11/24/2021 10:00,10,20,10,180,1
+6,Roshani Medical & General Store,Route6,Roshani Medical & General Store,Roshani Medical & General Store,11/24/2021 8:00,11/24/2021 10:00,10,20,10,180,1
+7,Sai Medico,Route7,Sai Medico,Sai Medico,11/24/2021 8:00,11/24/2021 10:00,10,20,10,180,1
